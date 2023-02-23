@@ -193,6 +193,7 @@ ArcGIS Portal:
 ArcGIS REST Services:
 * https://dbgis.menlhk.go.id/arcgis/rest/services
 * https://geoportal.menlhk.go.id/server/rest/services/
+* https://sigap.menlhk.go.id/server/rest/services
 
 
 ### Kementerian Agraria dan Tata Ruang (ATRBPN)
